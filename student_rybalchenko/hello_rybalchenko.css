@@ -1,12 +1,3 @@
 * {
     box-sizing: border-box;
 }
-
-body {
-    color: fuchsia;
-    font-size: 55px;
-}
-
-html {
-    min-height: 100vh;
-}
